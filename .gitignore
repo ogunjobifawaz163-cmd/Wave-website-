@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.vercel/
+.agon-env/
+*.log
+.vite-source-tags.js
+uploads/
+waves-beats-project.tar.gz
+public/downloads/
